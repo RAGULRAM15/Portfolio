@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.9c3b066c.css",
-    "main.js": "/portfolio/static/js/main.3f307d70.js",
-    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
-    "static/media/RAGUL R.pdf": "/portfolio/static/media/RAGUL R.0936dc8223faadaa6e28.pdf",
-    "static/media/4707122.jpg": "/portfolio/static/media/4707122.a796d463d504ee63ffb8.jpg",
-    "static/media/Twitter-X-White-Logo-PNG.png": "/portfolio/static/media/Twitter-X-White-Logo-PNG.d3ba47f085be8e460cd8.png",
-    "static/media/sel-direct-app-img.webp": "/portfolio/static/media/sel-direct-app-img.d8418b401765eaef7d97.webp",
-    "static/media/free-shipping-bar-img.webp": "/portfolio/static/media/free-shipping-bar-img.2d2ea8f4c4db2bb5def1.webp",
-    "static/media/pngwing.com.png": "/portfolio/static/media/pngwing.com.9f33c557b92e4e2e1cc8.png",
-    "static/media/javascript-39395.png": "/portfolio/static/media/javascript-39395.7f8751632b42a9932c15.png",
-    "static/media/cancel.png": "/portfolio/static/media/cancel.7bf3f4b001feb1aef023.png",
-    "static/media/react native_icon.png": "/portfolio/static/media/react native_icon.3b5049ea7908e9da3ba0.png",
-    "static/media/menu.png": "/portfolio/static/media/menu.23f3853457a197635ade.png",
-    "static/media/pngegg.png": "/portfolio/static/media/pngegg.562cd1af0dd60d5da40d.png",
-    "static/media/background-img.webp": "/portfolio/static/media/background-img.b21c72f4d0211ece22e3.webp",
-    "static/media/NET core.png": "/portfolio/static/media/NET core.d057a6b73aeb081bb728.png",
-    "index.html": "/portfolio/index.html",
-    "main.9c3b066c.css.map": "/portfolio/static/css/main.9c3b066c.css.map",
-    "main.3f307d70.js.map": "/portfolio/static/js/main.3f307d70.js.map",
-    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.5464cc89.css",
+    "main.js": "/Portfolio/static/js/main.1a4aece0.js",
+    "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/RAGUL R.pdf": "/Portfolio/static/media/RAGUL R.0936dc8223faadaa6e28.pdf",
+    "static/media/4707122.jpg": "/Portfolio/static/media/4707122.a796d463d504ee63ffb8.jpg",
+    "static/media/Twitter-X-White-Logo-PNG.png": "/Portfolio/static/media/Twitter-X-White-Logo-PNG.d3ba47f085be8e460cd8.png",
+    "static/media/sel-direct-app-img.webp": "/Portfolio/static/media/sel-direct-app-img.d8418b401765eaef7d97.webp",
+    "static/media/free-shipping-bar-img.webp": "/Portfolio/static/media/free-shipping-bar-img.2d2ea8f4c4db2bb5def1.webp",
+    "static/media/pngwing.com.png": "/Portfolio/static/media/pngwing.com.9f33c557b92e4e2e1cc8.png",
+    "static/media/javascript-39395.png": "/Portfolio/static/media/javascript-39395.7f8751632b42a9932c15.png",
+    "static/media/cancel.png": "/Portfolio/static/media/cancel.7bf3f4b001feb1aef023.png",
+    "static/media/react native_icon.png": "/Portfolio/static/media/react native_icon.3b5049ea7908e9da3ba0.png",
+    "static/media/menu.png": "/Portfolio/static/media/menu.23f3853457a197635ade.png",
+    "static/media/pngegg.png": "/Portfolio/static/media/pngegg.562cd1af0dd60d5da40d.png",
+    "static/media/background-img.webp": "/Portfolio/static/media/background-img.b21c72f4d0211ece22e3.webp",
+    "static/media/NET core.png": "/Portfolio/static/media/NET core.d057a6b73aeb081bb728.png",
+    "index.html": "/Portfolio/index.html",
+    "main.5464cc89.css.map": "/Portfolio/static/css/main.5464cc89.css.map",
+    "main.1a4aece0.js.map": "/Portfolio/static/js/main.1a4aece0.js.map",
+    "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c3b066c.css",
-    "static/js/main.3f307d70.js"
+    "static/css/main.5464cc89.css",
+    "static/js/main.1a4aece0.js"
   ]
 }
