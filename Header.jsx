@@ -9,7 +9,7 @@ export default function HeaderBar() {
       <section className="flex items-center justify-center w-24 md:w-60">
         <a
           className="flex items-center justify-center"
-          href="/portfolio"
+          href="#portfolio"
           target="_self"
         >
           <img
@@ -25,7 +25,7 @@ export default function HeaderBar() {
       <section className="w-2/5 flex items-center justify-evenly md:flex hidden ">
         <a
           className="pt-5 pb-5 border-transparent	border-b-2 border-solid hover:border-white font-semibold hover:text-gray-300"
-          href="/portfolio"
+          href="#portfolio"
           target="_self"
         >
           Home
@@ -74,7 +74,7 @@ export default function HeaderBar() {
         >
           <a
             className="font-semibold w-full h-full pt-2 pb-2 pl-8 pr-8"
-            href="/portfolio"
+            href="#portfolio"
             target="_self"
           >
             Home
