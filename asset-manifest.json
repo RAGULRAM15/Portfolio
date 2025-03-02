@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.5464cc89.css",
-    "main.js": "/Portfolio/static/js/main.1a4aece0.js",
+    "main.css": "/Portfolio/static/css/main.4c8ffa23.css",
+    "main.js": "/Portfolio/static/js/main.9c4eb283.js",
     "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
     "static/media/RAGUL R.pdf": "/Portfolio/static/media/RAGUL R.0936dc8223faadaa6e28.pdf",
     "static/media/4707122.jpg": "/Portfolio/static/media/4707122.a796d463d504ee63ffb8.jpg",
@@ -17,12 +17,12 @@
     "static/media/background-img.webp": "/Portfolio/static/media/background-img.b21c72f4d0211ece22e3.webp",
     "static/media/NET core.png": "/Portfolio/static/media/NET core.d057a6b73aeb081bb728.png",
     "index.html": "/Portfolio/index.html",
-    "main.5464cc89.css.map": "/Portfolio/static/css/main.5464cc89.css.map",
-    "main.1a4aece0.js.map": "/Portfolio/static/js/main.1a4aece0.js.map",
+    "main.4c8ffa23.css.map": "/Portfolio/static/css/main.4c8ffa23.css.map",
+    "main.9c4eb283.js.map": "/Portfolio/static/js/main.9c4eb283.js.map",
     "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5464cc89.css",
-    "static/js/main.1a4aece0.js"
+    "static/css/main.4c8ffa23.css",
+    "static/js/main.9c4eb283.js"
   ]
 }
