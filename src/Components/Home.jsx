@@ -1,5 +1,5 @@
 import Mainimg from "../Images/4707122.jpg";
-import resume from "RAGUL R.pdf";
+import resume from "../Images/RAGUL.pdf";
 import gitlogo from "../Images/pngegg.png";
 import linkedin from "../Images/linkedin-logo-png-2048.png";
 import twitter from "../Images/Twitter-X-White-Logo-PNG.png";
