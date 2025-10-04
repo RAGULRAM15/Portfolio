@@ -1,5 +1,4 @@
 import Mainimg from "../Images/4707122.jpg";
-import resume from "./RAGUL.pdf";
 import gitlogo from "../Images/pngegg.png";
 import linkedin from "../Images/linkedin-logo-png-2048.png";
 import twitter from "../Images/Twitter-X-White-Logo-PNG.png";
@@ -73,13 +72,14 @@ export default function Home() {
             ></img>
           </a>
         </div>
-        <a
-          className="text-base font-bold text-red-500 border border-solid border-white rounded-2xl bg-black pl-3 pr-3 download-show"
-          href={resume}
-          download
-        >
-          Download CV
-        </a>
+       <a
+  className="text-base font-bold text-red-500 border border-solid border-white rounded-2xl bg-black pl-3 pr-3 download-show"
+  href="/RAGUL.pdf"
+  download
+>
+  Download CV
+</a>
+
       </section>
       <section className="flex-col items-center justify-center hidden md:flex">
         <img
@@ -92,4 +92,5 @@ export default function Home() {
     </div>
   );
 }
+
 
